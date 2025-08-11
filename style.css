@@ -8,9 +8,7 @@
     height: 750px;
     background-image: url("netflix\ background.png");
     background-image: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
     
 }
 #center{
@@ -65,16 +63,10 @@ h1{
     color: white;
     font-size: 50px;
     text-align: center;
-    margin-top: 20px;
+
     
 }
-#netflix{
-    color: red;
-    font-size: 50px;
-    text-align: center;
-    margin-top: 20px;
-    font-family: 
-}
+
 h3{
     display: flex;
     justify-content: center;
